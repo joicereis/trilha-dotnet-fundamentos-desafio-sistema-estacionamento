@@ -23,7 +23,7 @@ bool exibirMenu = true;
 while (exibirMenu)
 {
     Console.Clear();
-    Console.WriteLine("Digite a sua opção:");
+    Console.WriteLine("Digite o número da opção desejada:");
     Console.WriteLine("1 - Cadastrar veículo");
     Console.WriteLine("2 - Remover veículo");
     Console.WriteLine("3 - Listar veículos");
@@ -44,6 +44,8 @@ while (exibirMenu)
             break;
 
         case "4":
+            Console.WriteLine("\n" +
+                "Encerrando o programa.");
             exibirMenu = false;
             break;
 
@@ -51,9 +53,6 @@ while (exibirMenu)
             Console.WriteLine("Opção inválida");
             break;
     }
-
-    Console.WriteLine("Pressione uma tecla para continuar");
-    Console.ReadLine();
 }
 
 Console.WriteLine("O programa se encerrou");
