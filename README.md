@@ -1,9 +1,12 @@
 # DIO - Trilha .NET - Fundamentos
 www.dio.me
 
-Repositório criado para o Desafio C# Fundamentos 
+Contribuição no projeto do Leonardo Buta para a construção de um sistema para estacionamento utilizando fundamentos do C# onde é possível gerenciar o estacionamento com opeações de adicionar, listar e remover veículos além de exibir o valor a ser cobrado durante o período o que o veículo permaneceu estacionado. A construção dos métodos e cálculos se deram conforme orientações comentadas pelo autor do projeto original.
 
-## Desafio de projeto
+
+## Descrição do projeto
+
+## Desafio do projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
 
 ## Contexto
@@ -37,4 +40,4 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 
 ## Solução Aplicada- Joice
-Completei o código disponibilizado conforme orientações comentadas no próprio código em conjunto com as orientações acima.
+Completei o código disponibilizado conforme orientações comentadas no código original em conjunto com as orientações acima.
