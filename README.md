@@ -4,7 +4,7 @@ www.dio.me
 Contribuição no projeto do Leonardo Buta para a construção de um sistema para estacionamento utilizando fundamentos do C# onde é possível gerenciar o estacionamento com opeações de adicionar, listar e remover veículos além de exibir o valor a ser cobrado durante o período o que o veículo permaneceu estacionado. A construção dos métodos e cálculos se deram conforme orientações comentadas pelo autor do projeto original.
 
 
-## Descrição do projeto
+# Descrição do projeto
 
 ## Desafio do projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
